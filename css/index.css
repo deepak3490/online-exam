@@ -1,0 +1,46 @@
+.icon{
+
+    display:flex;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.navbar .container-fluid .collapse .d-flex ul{
+    display: flex;
+    list-style: none;
+    margin-right: 30px;
+}
+.navbar .container-fluid .collapse .d-flex ul li{
+    padding-left:20px;
+}
+.navbar .container-fluid .collapse .d-flex ul li a{
+    font-size: 20px;
+}
+.main{
+    width: 100%;
+}
+.navbar{
+    width: 90%;
+    margin-left:5% ;
+    margin-top: -25px;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    
+}
+
+
+
+/* demo2 */
+.demo{
+    margin-top: -37px;
+    position: relative;
+
+}
+.demo .carousel-indicators .carousel-inner .button{
+margin-bottom: 80px;
+border:1px solid black;
+}
+.why{
+    margin-top: 100px;
+    padding: 50px 50px;
+}
